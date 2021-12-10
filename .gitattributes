@@ -1,5 +1,2 @@
-*.js linguist-detectable=true
-*.html linguist-language=JavaScript
-*.htm linguist-language=JavaScript
-*.html linguist-detectable=false
-*.htm linguist-detectable=false
+* linguist-vendored
+*.js linguist-vendored=false
